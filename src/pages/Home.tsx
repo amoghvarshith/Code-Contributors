@@ -11,7 +11,7 @@ export default function Home() {
             <div className=" flex justify-center gap-6 m-8">
                 <Button variant='secondary' className=" rounded-full ">Get Started</Button>
                 <Button  className="rounded-full">Tech Docs <MoveRight/> </Button>
-            </div>
+            </div> 
         </div>
     </div>
   )
