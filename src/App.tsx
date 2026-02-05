@@ -1,9 +1,9 @@
-import Home from "./pages/Home";
+import Login from "./pages/Login";
 
 export default function App() {
   return (
-    <div className="App bg-black w-screen h-screen text-white">
-      <Home/>
+    <div className="App ">
+      <Login/>
     </div>
   )
 }
